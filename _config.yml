@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: sezznb
+email: sejinnnnnn2@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  컴공 4학년 입니다 ^~^
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+url:  https://sejinnnnnn.github.io
 twitter_username: twitter_username
-github_username:  github_username
+github_username:  sejinnnnnn
 
 # Build settings
 markdown: kramdown
